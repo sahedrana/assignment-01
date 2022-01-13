@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.divided-sym{
+    font-size: 100px;
+    color: orangered;
+}
+.first-flex{
+    display: flex;
+    margin-bottom: 100px;
+    margin-right: 5%;
+}
+h1{
+    font-size: 60px;
+}
+   
+.title-color{
+    color: orange;
+}
+.half-width{
+    width: 80%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+p{
+    font-size: 20px;
+}
+.mission-area{
+    text-align: center;
+}
+#mission-area{
+        width: 28%;
+        margin-left: 5%;
+        margin-right: 3%;
+        border-radius: 10px;
+        padding-left: 5px;
+        background-color: rgb(228, 248, 250);
+}
+#vission-area{
+    width: 28%;
+    
+    margin-left: 5px;
+    margin-right: 3%;
+    border-radius: 10px;
+    padding-left: 5px;
+    background-color: rgb(238, 234, 190);
+}
+#goals-area{
+    width: 28%;
+    margin-left: 5px;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 5px;
+    background-color: rgb(210, 192, 240);
+}
+.full-width img{
+    width: 80%;
+    padding-left: 25%;
+    height: 100;
+    
+}
+.full-width{
+    width: 80%;
+    padding-left: 5%;
+}
+.mid-img{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    
+
+}
+.mid2-img{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+    height: 10%;
+}
